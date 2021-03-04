@@ -17,7 +17,7 @@
   "FRAARG": {
     "gamenumber": "50",
     "level": "Round of 16",
-    "starttime": "2018-06-30 17:00:00"
+    "starttime": "2018-06-30 17:00:00",
     "timezone": "UTC+3",
     "stadium": "Kazan Arena",
     "city": "Kazan",
@@ -32,7 +32,7 @@
   "ESPRUS": {
     "gamenumber": "51",
     "level": "Round of 16",
-    "starttime": "2018-07-01 17:00:00"
+    "starttime": "2018-07-01 17:00:00",
     "timezone": "UTC+3",
     "stadium": "Luzhniki Stadium",
     "city": "Moscow",
@@ -47,7 +47,7 @@
   "CRODEN": {
     "gamenumber": "52",
     "level": "Round of 16",
-    "starttime": "2018-07-01 21:00:00"
+    "starttime": "2018-07-01 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Nizhny Novgorod Stadium",
     "city": "Nizhny Novgorod",
@@ -62,7 +62,7 @@
   "BRAMEX": {
     "gamenumber": "53",
     "level": "Round of 16",
-    "starttime": "2018-07-02 18:00:00"
+    "starttime": "2018-07-02 18:00:00",
     "timezone": "UTC+4",
     "stadium": "Samara Arena",
     "city": "Samara",
@@ -77,7 +77,7 @@
   "BELJAP": {
     "gamenumber": "54",
     "level": "Round of 16",
-    "starttime": "2018-07-02 21:00:00"
+    "starttime": "2018-07-02 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Rostov Arena",
     "city": "Rostov-on-Don",
@@ -92,7 +92,7 @@
   "SWESUI": {
     "gamenumber": "55",
     "level": "Round of 16",
-    "starttime": "2018-07-03 17:00:00"
+    "starttime": "2018-07-03 17:00:00",
     "timezone": "UTC+3",
     "stadium": "Saint Petersburg Stadium",
     "city": "Saint Petersburg",
@@ -107,7 +107,7 @@
   "COLENG": {
     "gamenumber": "56",
     "level": "Round of 16",
-    "starttime": "2018-07-03 21:00:00"
+    "starttime": "2018-07-03 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Spartak Stadium",
     "city": "Moscow",
@@ -122,7 +122,7 @@
   "URUFRA": {
     "gamenumber": "57",
     "level": "Quarter-finals",
-    "starttime": "2018-07-06 17:00:00"
+    "starttime": "2018-07-06 17:00:00",
     "timezone": "UTC+3",
     "stadium": "Nizhny Novgorod Stadium",
     "city": "Nizhny Novgorod",
@@ -137,7 +137,7 @@
   "BRABEL": {
     "gamenumber": "58",
     "level": "Quarter-finals",
-    "starttime": "2018-07-06 21:00:00"
+    "starttime": "2018-07-06 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Kazan Arena",
     "city": "Kazan",
@@ -152,7 +152,7 @@
   "RUSCRO": {
     "gamenumber": "59",
     "level": "Quarter-finals",
-    "starttime": "2018-07-07 21:00:00"
+    "starttime": "2018-07-07 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Fisht Stadium",
     "city": "Sochi",
@@ -167,7 +167,7 @@
   "SWEENG": {
     "gamenumber": "60",
     "level": "Quarter-finals",
-    "starttime": "2018-07-07 18:00:00"
+    "starttime": "2018-07-07 18:00:00",
     "timezone": "UTC+3",
     "stadium": "Samara Arena",
     "city": "Samara",
@@ -182,7 +182,7 @@
   "FRABEL": {
     "gamenumber": "61",
     "level": "Semi-finals",
-    "starttime": "2018-07-10 21:00:00"
+    "starttime": "2018-07-10 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Saint Petersburg Stadium",
     "city": "St. Petersburg",
@@ -197,7 +197,7 @@
   "CROENG": {
     "gamenumber": "62",
     "level": "Semi-finals",
-    "starttime": "2018-07-11 21:00:00"
+    "starttime": "2018-07-11 21:00:00",
     "timezone": "UTC+3",
     "stadium": "Luzhniki Stadium",
     "city": "Moscow",
@@ -211,8 +211,8 @@
   },
   "BELENG": {
     "gamenumber": "63",
-    "level": "Match for third place"
-    "starttime": "2018-07-14 17:00:00"
+    "level": "Match for third place",
+    "starttime": "2018-07-14 17:00:00",
     "timezone": "UTC+3",
     "stadium": "Saint Petersburg Stadium",
     "city": "St. Petersburg",
@@ -227,7 +227,7 @@
   "FRACRO": {
     "gamenumber": "64",
     "level": "Final",
-    "starttime": "2018-07-15 18:00:00"
+    "starttime": "2018-07-15 18:00:00",
     "timezone": "UTC+3",
     "stadium": "Luzhniki Stadium",
     "city": "Moscow",
